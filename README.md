@@ -1,8 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 ## About Me 
-👷‍♀️ I am an Industrial Engineer turned Data Science Enthusiast 📊 with 5 years of hands-on experience in Quality Management Systems (QMS).
+📊 Data Scientist | 👷‍♀️ Former Industrial Engineer | 5 Years Experience in Quality Management Systems (QMS) | Passionate about transforming data into actionable insights.
 
-## 🚀 Transitioning to Data Science 📈
+## 🚀 Transition to Data Science 📈
 
 👩‍💻💞️ Excited to embark on a new journey in Data Science, ⚡leveraging my analytical mindset and problem-solving skills to extract meaningful insights from data. Currently diving deep into machine learning, data analysis and visualization.
 
